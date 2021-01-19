@@ -16,12 +16,13 @@ body{
 }
 
 .services_column{
-	padding: 20px;
+	padding: 10px;
 	text-align: center;
+	max-width: 350px;
 }
 
 .services-content{
-	margin-top: 40px;
+	margin-top: 20px;
 
 }
 
